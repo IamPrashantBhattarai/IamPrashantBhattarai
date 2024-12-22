@@ -33,9 +33,9 @@
 
 
 ## 🚀 About Me
--🔭 I’m currently working on  **flutter machine learinig kit**
+-🔭 I’m currently working on  **flutter machine learning kit**
 
--🌱 I’m currently learning **tenserflow , flutter , firebase**
+-🌱 I’m currently learning **tensorflow , flutter , firebase**
 
 -⚡ Fun fact **neurons that fire together, wire together**
     
