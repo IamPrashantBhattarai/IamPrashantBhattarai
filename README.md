@@ -25,29 +25,7 @@
 
 
 
-    
-<h3 align="center">A passionate frontend developer from Nepal</h3>
-    
-    
-    
 
-
-## 🚀 About Me
--🔭 I’m currently working on  **flutter machine learning kit**
-
--🌱 I’m currently learning **tensor flow , flutter , firebase, Android studio**
-
--⚡ Fun fact **neurons that fire together, wire together**
-    
-    
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prashant Bhattarai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prashant_2058)
-    
-    
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/python-%2335766F.svg?style=for-the-badge&logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/android-%2300C853.svg?style=for-the-badge&logo=android&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/framer-%2300A3FF.svg?style=for-the-badge&logo=framer&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Photoshop](https://img.shields.io/badge/photoshop-%2301A5E0.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-%2369C9D0.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
     
     
 
