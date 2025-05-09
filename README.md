@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart, Android Studio**
 
-- 💬 Ask me about **Flutter, Python**
+- 💬 Ask me about **Flutter, Dart**
 
 - 📫 How to reach me **prashantbhattarai058.official@gmail.com**
 
