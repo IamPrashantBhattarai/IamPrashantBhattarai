@@ -6,9 +6,11 @@
 <p align="center"> 
 <img src="https://img.shields.io/github/followers/LulietLyan?label=Followers&style=for-the-badge&color=purple"
 alt="github follow"/>
-<img src="https://komarev.com/ghpvc/?username=lulietlyan&label=Profile%20views&color=21907b&style=for-the-badge" alt="lulietlyan" /> 
-<a href="mailto:lulietlyan@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:lulietlyan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"t=mail" /></a>
+<img src="https://komarev.com/ghpvc/?username=IamPrashantBhattarai
+=Profile%20views&color=21907b&style=for-the-badge" alt="IamPrashantBhattarai
+" /> 
+<a href="mailto:prashantbhattarainepal@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:prashant-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"t=mail" /></a>
 </p>
 
 
