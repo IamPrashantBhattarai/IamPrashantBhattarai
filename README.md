@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am a Computer Engineering graduate passionate about building intelligent systems and impactful digital solutions.<br>🔭 I’m currently working on Machine Learning, Artificial Intelligence, and Data Science, along with a bit of app development.<br>🤝 I’m looking to collaborate on startup  and hackathons.<br>🌱 I’m currently learning more about Artificial Intelligence.<br>💬 Ask me about Flutter, Machine Learning, or Computer Engineering.<br>😄 Fun fact: I treat debugging like detective work — every bug is just a clue to the final breakthrough.
+🎓 I am a Computer Engineering  passionate about building intelligent systems and impactful digital solutions.<br>🔭 I’m currently working on Machine Learning, Artificial Intelligence, and Data Science, along with a bit of app development.<br>🤝 I’m looking to collaborate on startup  and hackathons.<br>🌱 I’m currently learning more about Artificial Intelligence.<br>💬 Ask me about Flutter, Machine Learning, or Computer Engineering.<br>😄 Fun fact: I treat debugging like detective work — every bug is just a clue to the final breakthrough.
 
 
 ## 🌐 Socials:
