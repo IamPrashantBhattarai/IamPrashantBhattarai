@@ -1,6 +1,6 @@
 <h1 align="center">Prashant Bhattarai</h1>
 <p align="center">
-  <b>Machine Learning for Scientific Modelling · Explainable AI · Natural-Hazard Early Warning</b><br/>
+  <b>Machine Learning for Scientific Modelling · Explainable AI /b><br/>
   Registered Computer Engineer (Nepal Engineering Council) · Lecturer · Kathmandu, Nepal
 </p>
 
